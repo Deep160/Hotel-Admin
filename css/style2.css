@@ -52,7 +52,6 @@ a {
 }
 
 
-
 /*sidebar css*/
 
 section#sidebar {
@@ -79,7 +78,7 @@ section#sidebar {
     color: #fff;
     display: block;
     text-decoration: none;
-    padding: 10px 40px;
+    padding: 12px 40px;
 }
 
 .sidebar-menu ul li span {
@@ -157,33 +156,7 @@ header{
     color: #bbb;
 }
 
-.serach-par input[type="text"]{
-    padding: 8px 12px;
-    border: none;
-    border: 2px solid #bbb;
-    transition: width 1s ease;
-    width: 50%;
-    height: 36px;
-}
 
-.serach-par input[type="text"]:focus {
-    border: 2px solid #fd5a5e;
-    border-radius: 20px;
-    outline: none;
-    width: 95%;
-}
-
-i.fa.fa-search {
-    background-color: #fd5a5e;
-    color: #fff;
-    width: 33px;
-    height: 35px;
-    line-height: 37px;
-    text-align: center;
-    margin-left: -37px;
-    border-top-right-radius: 50px 50px;
-    border-bottom-right-radius: 50px 50px;
-}
 
 /* ---------------------------------------------------------------- */
 
@@ -218,10 +191,6 @@ i.fa.fa-search {
 
     .sidebar-brand {
         padding: 20px 20px 0px 20px;
-    }
-
-    .header-left.header-serach {
-        display: none;
     }
 
     .header-left {

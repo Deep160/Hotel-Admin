@@ -3,6 +3,10 @@
     padding-bottom: 40px;
 }
 
+.main-content-info .cust-details{
+    box-shadow: 0 0 10px #000;
+}
+
 .edit-btn .fa-pencil-square{
     color: green;
     font-size: 20px;
@@ -17,4 +21,8 @@
 .row{
     width: 200px;
     float: right;
+}
+
+table th, table td{
+    text-align: center;
 }

@@ -9,13 +9,14 @@ body{
 }
 
 .main-content-info{
-    padding-top: 130px;
+    padding-top: 140px;
     padding-bottom: 70px;
 }
 
 .container .form{
     width: 80%;
     margin: auto;
+    box-shadow: 0 0 10px #000;
 }
 .container h3::before{
     content: "";
