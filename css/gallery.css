@@ -1,7 +1,11 @@
 body{
-    background: linear-gradient(rgba(155, 60, 183, 0.9),
-    rgba(255, 57, 111, 0.9));
+    color: rgb(0, 0, 0);
+}
 
+.main-content-info{
+    padding-top: 130px;
+    padding-bottom: 80px;
+    color: #fd5a5e;
 }
 
 .card img{
@@ -12,7 +16,6 @@ body{
 }
 
 .card img:hover{
-    
     transform: scale(1.03)
 }
 
